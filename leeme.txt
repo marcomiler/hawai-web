@@ -1,0 +1,9 @@
+-Herramientas que usamos para el header: navbar
+
+-Para la insercion de las imagenes en diapositivas: carousel
+scrollspy,
+cards,
+badge 
+
+la clase sticky-top es para q el navegador se mantenga en top
+modal para que se muestre superpuesto un argumento o formulario
